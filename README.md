@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-mots-damour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Les Mots D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-mots-damour/) |
+| **Get License** | [Request Licensing for Les Mots D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-mots-damour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton parfum dans l'air, baby, c'est l'heure de s'évader
+> Sous les lumières de Paris, j'ai envie de te savourer
+> Tu danses dans ma tête, tu mets le feu à mes nuits
+> One touch of your skin, et le reste s'évanouit
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
