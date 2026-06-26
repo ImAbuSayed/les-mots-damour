@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Les Mots D'amour
+
+This log tracks the cryptographic history and versioning for the song **Les Mots D'amour** (les-mots-damour).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T18:38:55.170815 | `v1` | `1072e2869a8be2a55d309ebd11f004a8a460794d66285c02cf39ee69d2d4a9fc` | `47f095874b78a536a23c21230de45aa975d98a4c9689f951832f10cf4dd732a0` | `2026-06-26_les-mots-damour-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

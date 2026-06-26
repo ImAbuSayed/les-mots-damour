@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-mots-damour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Les Mots D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-mots-damour/) |
+| **Get License** | [Obtain a Music License for Les Mots D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-mots-damour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1072e2869a8be2a55d309ebd11f004a8a460794d66285c02cf39ee69d2d4a9fc` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
